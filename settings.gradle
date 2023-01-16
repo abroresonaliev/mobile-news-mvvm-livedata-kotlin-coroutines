@@ -1,2 +1,2 @@
-rootProject.name = "mobile-news-mvvm-kotlin-coroutines"
+rootProject.name = "mobile-news-mvvm-livedata-kotlin-coroutines"
 include ':app'
